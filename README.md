@@ -21,7 +21,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-- 🔭 I’m currently working on CondControl project
+- 🔭 I’m currently working on flutter project
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: m3uzin@gmail.com
 <!--
